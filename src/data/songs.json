@@ -1,0 +1,2427 @@
+[
+  {
+    "id": "legend",
+    "number": 1,
+    "title": "전설",
+    "artist": "잔나비",
+    "lyric": "그댄 나를 사랑이라 불러 주오",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "앞으로 펼쳐질 날들은 {이름}님의 전설이 될 거예요!",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 {이름}님이 쏟아온 노력이 앞으로는 비로소 빛을 볼 거예요. 매 순간 자신감 있게 나아가 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 전설이라고 하면 아주 대단한 사람들의 이야기만 떠올리곤 해요. 하지만 전설은 처음부터 위대했던 사람들의 이야기가 아니라, 자신의 순간을 누구보다 뜨겁게 살아낸 사람들의 이야기가 아닐까요?",
+        "emphasis": false
+      },
+      {
+        "text": "때로는 방황하고, 때로는 넘어졌어도 그 모든 순간이 오늘의 {이름}님을 만들었어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 스스로의 가능성을 의심하기보다 자신의 이야기를 믿고 사랑해 주세요.",
+        "emphasis": false
+      },
+      {
+        "text": "언젠가 지난날을 돌아봤을 때, 지금부터 써 내려갈 이야기가 {이름}님만의 아름다운 전설로 기억되기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "전설",
+    "year": "2019",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/a9/b2/fca9b2d4-b1ed-92e8-2e5f-1838d77cbce7/cover-_NEW.jpg/1000x100bb.jpg",
+    "source": "https://music.apple.com/us/album/legend/1456102975?i=1456103132&uo=4",
+    "theme": "나만의 전설",
+    "floId": "31501136",
+    "melonId": "31666416"
+  },
+  {
+    "id": "step",
+    "number": 2,
+    "title": "한걸음",
+    "artist": "잔나비",
+    "lyric": "그 길 계단 오 모두 내 사랑이어라",
+    "extraLyric": "그 길 계단 오 모두 내 사랑이어라, 가로등 모두 내 이별이어라",
+    "letter": [
+      {
+        "text": "우리가 걸어온 길에는 참 많은 사랑과 이별이 남아 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "어느 날 무심코 지나친 골목길, 익숙한 계단, 오래된 가로등에도 그 시절의 소중한 기억들이 숨어 있겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날의 {이름}님에게도 기쁜 순간만큼이나 슬프고 아쉬웠던 순간들이 있었을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 그 모든 걸음이 모여 지금의 {이름}님을 만들었다는 걸 기억해 주세요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 가끔 지나온 길을 돌아보며 그때의 자신에게도 따뜻한 인사를 건네보아요. 그 시절의 사랑도, 이별도, 서툴렀던 나 자신도 모두 소중했으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "그리고 앞으로는 새로운 길을 걷게 되겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "그 길 위에서 만나는 모든 순간이 언젠가 그리워할 만큼 아름다운 추억이 되기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "잔나비 소곡집 I",
+    "year": "2020",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/d6/d4/a9d6d4e2-0f52-be99-abd0-9e5c5338f507/cover_-.jpg/1000x100bb.jpg",
+    "source": "https://music.apple.com/us/album/step/1539127949?i=1539127954&uo=4",
+    "theme": "지나온 모든 걸음",
+    "floId": "440095878",
+    "melonId": "33043505"
+  },
+  {
+    "id": "mother",
+    "number": 3,
+    "title": "마더 (feat. 이수현)",
+    "artist": "잔나비",
+    "lyric": "믿겨지니 미리 준비된 사랑이 있다는 게",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "여러분을 위해 미리 준비된 사랑이 있다는 거, 아시나요?",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 그 사랑을 온전히 느끼는 행복한 날들이 펼쳐질 거예요!",
+        "emphasis": false
+      },
+      {
+        "text": "사랑이란 꼭 특별한 이유가 있어야만 받을 수 있는 것은 아니에요. 무언가를 잘 해내지 않아도, 누구보다 뛰어나지 않아도, 존재만으로 사랑받을 자격은 충분하니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "어쩌면 우리가 아직 발견하지 못했을 뿐, 세상 어딘가에는 이미 {이름}님을 위한 다정함이 준비되어 있을지도 몰라요.",
+        "emphasis": false
+      },
+      {
+        "text": "또 가삿말 중에는 이런 말이 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "\"모든 문제에 진지하진 마, 진리는 늘 웃긴 얼굴로 와\"",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 때때로 모든 문제에 정답을 찾으려고 애쓰고, 그 과정에서 스스로를 너무 힘들게 하곤 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 모든 순간에 진지할 필요는 없어요. 때로는 엉뚱한 선택을 하고, 실없는 농담에 웃고, 조금은 철없는 모습으로 살아가도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 남들이 정해 놓은 답보다 {이름}님만의 정답을 찾아가 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "그리고 웃긴 얼굴로 찾아오는 오늘의 진리를 반갑게 맞이할 수 있는, 때로는 진지하지 않고 마음껏 웃는 우리가 되어 봐요!",
+        "emphasis": true
+      }
+    ],
+    "album": "사운드 오브 뮤직 pt.2 : LIFE",
+    "year": "2025",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/1c/0d/211c0d1f-b117-2579-8c56-3cdc6b90a5f4/cover_KM0023554_1.jpg/1000x100bb.jpg",
+    "source": "https://music.apple.com/us/album/mother-feat-lee-suhyun/1847217070?i=1847217076&uo=4",
+    "theme": "미리 준비된 사랑",
+    "floId": "559050635",
+    "melonId": "600322957"
+  },
+  {
+    "id": "beautiful",
+    "number": 4,
+    "title": "Beautiful",
+    "artist": "잔나비",
+    "lyric": "난 네 꽃이야 향기롭지 않니",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "꽃이 피는 날에는 길을 걸으면서 잠시 꽃을 바라봐요.",
+        "emphasis": false
+      },
+      {
+        "text": "어쩌면 그 길 위에는 {이름}님을 위해 피어난 향기로운 꽃이 있을지도 몰라요!",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 바쁘게 살아가느라 계절이 바뀌는 것도, 길가에 꽃이 피어나는 것도 모르고 지나칠 때가 많아요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 아름다운 순간은 생각보다 가까운 곳에 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "누군가 건네는 작은 친절, 오래 기다렸던 반가운 연락, 별다를 것 없는 하루에 찾아온 따뜻한 햇살처럼요.",
+        "emphasis": false
+      },
+      {
+        "text": "노래 속에서 꽃을 건네는 마음처럼, 앞으로는 {이름}님도 누군가에게 향기로운 꽃이 되어 보면 어떨까요?",
+        "emphasis": false
+      },
+      {
+        "text": "거창한 선물이 아니어도 괜찮아요. 따뜻한 말 한마디와 진심 어린 웃음만으로도 누군가의 하루를 아름답게 만들 수 있으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님의 일상 곳곳에 꽃이 피어나고, 그 향기가 소중한 사람들에게도 오래도록 전해지기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "디어 마이 프렌즈 OST - Part.2",
+    "year": "2016",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/f8/46/65f8464c-1c2a-0bb9-67ad-173869873bd2/20165201516391.jpg/1000x100bb.jpg",
+    "source": "https://music.apple.com/us/album/beautiful/1148500437?i=1148500445&uo=4",
+    "theme": "일상에 피는 꽃",
+    "floId": "30260827",
+    "melonId": "8190641"
+  },
+  {
+    "id": "glory",
+    "number": 5,
+    "title": "모든 소년 소녀들3 : 글로리",
+    "artist": "잔나비",
+    "lyric": "비장의 표정을 챙겨 선점한 위치로 향하세요!",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "지난날 열심히 달린 {이름}님!",
+        "emphasis": false
+      },
+      {
+        "text": "이제 때가 되었어요. 비장한 표정을 짓고 미리 봐두었던 꿈을 향해 달려가 봐요!",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 가끔 세상이 너무 높고 견고한 벽처럼 느껴질 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "아무리 노력해도 제자리인 것 같고, 다른 사람들은 모두 앞서가는데 나만 뒤처진 것 같은 날도 있겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 높은 곳에 있는 사람만이 세상을 바꿀 수 있는 건 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "가장 낮은 자리에서도 서로의 손을 잡는다면, 우리가 서 있는 위치는 언제든 달라질 수 있으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "그러니 앞으로는 혼자 모든 걸 이겨내려 하지 않아도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "같은 꿈을 꾸는 사람들과 손을 맞잡고, 서로를 응원하며 함께 나아가 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 그토록 바라던 꿈에 한 걸음 더 가까워지고, 함께한 사람들과 기쁨을 나누는 영광스러운 날들이 펼쳐지기를 바라요!",
+        "emphasis": true
+      }
+    ],
+    "album": "사운드 오브 뮤직 pt.2 : LIFE",
+    "year": "2025",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/1c/0d/211c0d1f-b117-2579-8c56-3cdc6b90a5f4/cover_KM0023554_1.jpg/1000x100bb.jpg",
+    "source": "https://music.apple.com/us/album/all-the-boys-and-girls-pt-3-glory/1847217070?i=1847217081&uo=4",
+    "theme": "꿈을 향한 용기",
+    "floId": "559050640",
+    "melonId": "600322962"
+  },
+  {
+    "id": "dreamland",
+    "number": 6,
+    "title": "꿈나라 별나라",
+    "artist": "잔나비",
+    "lyric": "꿈나라는 별보다 따뜻하대 별나라는 다음번에 가도록 해",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "지난날을 살아내느라 정말 수고 많았어요.",
+        "emphasis": false
+      },
+      {
+        "text": "별나라보다 따뜻한 꿈나라에서 잠시 쉬었다가, 힘차게 새로운 날들을 맞이해 보아요!",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 매일 더 높은 곳으로, 더 먼 곳으로 나아가야 한다는 생각에 쫓기며 살아가곤 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 가끔은 멀리 있는 반짝이는 별보다 지금 나를 따뜻하게 안아주는 작은 꿈이 더 소중할 때도 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날을 누구보다 열심히 살아온 {이름}님, 앞으로는 조금 쉬어 가도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "좋아하는 사람들과 맛있는 음식을 먹고, 그리웠던 얼굴을 만나고, 아무 걱정 없이 웃는 하루도 충분히 아름다운 꿈이 될 수 있으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "별나라는 다음번에 가도 괜찮잖아요?",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 조급함보다 여유를, 걱정보다 설렘을, 차가운 별빛보다 따뜻한 사랑을 더 많이 느끼기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "MONKEY HOTEL",
+    "year": "2016",
+    "cover": "https://cdn.music-flo.com/image/album/936/265/02/04/402265936_5c9f73f5.jpg?1553953782122/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/30344901/details",
+    "theme": "따뜻한 쉼",
+    "floId": "30344901",
+    "melonId": "8298729"
+  },
+  {
+    "id": "romantic",
+    "number": 7,
+    "title": "외딴섬 로맨틱",
+    "artist": "잔나비",
+    "lyric": "참 아름다운 한때야, 오 그 노래를 들려주렴, 귓가에 피어날 사랑 노래를",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "사실은 아무것도 없다는 걸 다 알면서도, 직접 두 눈으로 봐야만 믿는 지친 상대방을 위해 기꺼이 노를 저어주는 그런 사랑을 할 줄 아는 우리가 되어 보아요!",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 사랑하면 상대방에게 정답을 알려주고, 더 좋은 길로 이끌어줘야 한다고 생각할 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 때로는 상대가 가고 싶어 하는 길이 틀렸다는 걸 알아도, 그 길을 함께 걸어주는 것이 더 큰 사랑일 수 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "함께 도착한 곳에 아무것도 없다 해도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "그곳에 도달하기까지 함께 노를 젓고, 파도를 견디고, 서로를 바라보며 웃었던 시간은 결코 사라지지 않으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "어쩌면 사랑은 우리가 찾던 외딴섬에 있는 게 아니라, 그 섬으로 향하던 작은 배 안에 이미 있었던 것인지도 몰라요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 누군가를 바꾸려고 애쓰기보다 그 사람의 꿈을 함께 바라봐 주고, 때로는 기꺼이 길을 잃어주는 다정한 사람이 되어 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "언젠가 돌아보았을 때 목적지보다 함께한 여정이 더 아름다웠다고 말할 수 있는 사랑이 {이름}님에게 찾아오기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "환상의 나라",
+    "year": "2021",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/92/25/2f922513-0da1-5c2d-2ee2-c9cbca86457e/2.jpg/1000x100bb.jpg",
+    "source": "https://music.apple.com/us/album/i-know-where-the-rainbow-has-fallen/1578636382?i=1578636393&uo=4",
+    "theme": "함께하는 여정",
+    "floId": "446914611",
+    "melonId": "33736499"
+  },
+  {
+    "id": "my-song",
+    "number": 8,
+    "title": "나의 기쁨 나의 노래 (Intro)",
+    "artist": "잔나비",
+    "lyric": "또다시 싸워 이길 나의 기쁨 나의 노래야 거리를 나뒹구는 쉬운 마음 되어라",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "앞으로는 우리, 다른 사람들에게 쉬운 마음이 되어 위로가 되고 또 위로받을 수 있는 그런 사람이 되어 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "살다 보면 누군가의 마음을 위로하는 일이 참 어렵게 느껴질 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "무슨 말을 해야 할지 모르겠고, 섣불리 건넨 말이 오히려 상처가 될까 봐 망설이기도 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 위로가 언제나 거창할 필요는 없어요.",
+        "emphasis": false
+      },
+      {
+        "text": "그저 곁에 앉아 이야기를 들어주고, 별다른 이유 없이 안부를 묻고, 힘든 날에 함께 웃어주는 것만으로도 충분하니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 모두 각자의 삶에서 보이지 않는 싸움을 하고 있어요. 그러니 매 순간 강한 사람으로 살아가려고 애쓰지 않아도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "누군가에게는 편히 기댈 수 있는 사람이 되고, 나 역시 힘든 날에는 다른 사람에게 마음을 기댈 수 있었으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님의 마음이 누군가에게 쉽게 닿는 따뜻한 노래가 되고, 또 누군가의 노래가 {이름}님에게 작은 기쁨이 되어주기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "전설",
+    "year": "2019",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/a9/b2/fca9b2d4-b1ed-92e8-2e5f-1838d77cbce7/cover-_NEW.jpg/1000x100bb.jpg",
+    "source": "https://music.apple.com/us/album/good-good-night-intro/1456102975?i=1456103126&uo=4",
+    "theme": "기댈 수 있는 마음",
+    "floId": "31501130",
+    "melonId": "31666410"
+  },
+  {
+    "id": "youth",
+    "number": 9,
+    "title": "작전명 청-춘!",
+    "artist": "잔나비",
+    "lyric": "선포한다 작전명 청춘!",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "\"선포한다 작전명 청춘!\"",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로 이루어갈 {이름}님의 소원과 소망을 선포합니다!",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 마음속에 품고만 있던 꿈을 세상 밖으로 꺼내보는 건 어떨까요?",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 어른이 될수록 실패하는 일이 두려워지고, 무언가에 도전하기 전에 먼저 할 수 없는 이유부터 찾게 되곤 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 청춘은 단순히 나이가 젊다는 뜻만은 아닐 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "아직 이루고 싶은 꿈이 있고, 넘어지더라도 다시 일어나겠다는 마음이 있다면 우리는 여전히 청춘이니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로도 분명 흔들리는 날이 있을 거예요. 계획대로 되지 않는 순간도 있겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "그렇지만 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "우리의 작전은 단 한 번의 승리로 끝나는 것이 아니라, 계속해서 꿈꾸고 도전하는 일이니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "{이름}님의 앞으로의 작전명은 청춘! 마음껏 도전하고, 마음껏 실패하고, 마음껏 웃으며 자신만의 승리를 만들어 가기를 바라요!",
+        "emphasis": true
+      }
+    ],
+    "album": "잔나비 소곡집 I",
+    "year": "2020",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/d6/d4/a9d6d4e2-0f52-be99-abd0-9e5c5338f507/cover_-.jpg/1000x100bb.jpg",
+    "source": "https://music.apple.com/us/album/blue-spring/1539127949?i=1539128047&uo=4",
+    "theme": "계속되는 청춘",
+    "floId": "440095881",
+    "melonId": "33043508"
+  },
+  {
+    "id": "love",
+    "number": 10,
+    "title": "사랑의이름으로! (feat. 카리나 of aespa)",
+    "artist": "잔나비",
+    "lyric": "나는 너를 사랑하고 너도 날 사랑하는 이 시절을 기억해! 그리 길진 못할 거야!",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 사랑을 '먼 별에서 온 복잡한 일'처럼 어렵게 생각하고, 계산하며, 답을 찾으려고 애쓸 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "사랑의 본질, 그러니까 진리는 아무런 조건 없이 굴하지 않고 웃어줄 수 있는 가장 단순하고 앳된 순수함이라고 생각해요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 복잡하게 머리 쓰지 않고 그저 투명하게 다정함을 베푸는 사랑을 할 수 있을 거예요!",
+        "emphasis": false
+      },
+      {
+        "text": "생각해 보면 사랑은 언제나 완벽한 정답을 요구하지 않아요.",
+        "emphasis": false
+      },
+      {
+        "text": "내가 너를 좋아하고, 너도 나를 좋아한다는 사실만으로 충분히 아름다운 순간들이 있으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 그 소중한 시간을 영원히 붙잡아 두고 싶어 하지만, 모든 순간이 영원할 수는 없다는 것도 알고 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "그렇기에 지금 곁에 있는 사람에게 조금 더 다정해지고, 사랑한다는 말을 아끼지 않았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "서툴러도 괜찮고, 조금 유치해도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "어쩌면 사랑에서 가장 용기 있는 행동은 복잡한 계산 없이 먼저 웃어주고, 먼저 손을 내밀어 주는 일인지도 모르니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 사랑을 어렵게 풀어야 할 문제로 여기지 않고, 있는 그대로 느끼고 표현할 수 있기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 훗날 돌아봤을 때, 참 많이 웃고 참 많이 사랑했던 시절이었다고 기억할 수 있기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "사운드 오브 뮤직 pt.1",
+    "year": "2025",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/7b/07/b47b0777-b5f0-0597-e4c1-23533fc182f0/cover_KM0022631_1.jpg/1000x100bb.jpg",
+    "source": "https://music.apple.com/us/album/may-the-tenderness-be-with-you-feat-karina/1810135874?i=1810135878&uo=4",
+    "theme": "순수한 다정함",
+    "floId": "538039049",
+    "melonId": "38868615"
+  },
+  {
+    "id": "together",
+    "number": 11,
+    "title": "투게더!",
+    "artist": "잔나비",
+    "lyric": "나는 너의 음악이고 그런 마음 한 줄이야",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "비록 느리고 미련해 보일지라도, 누군가를 향한 진심은 속도가 아니라 오롯이 들이는 '시간의 깊이'에서 나와요!",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 언제나 빠른 답을 원해요.",
+        "emphasis": false
+      },
+      {
+        "text": "보낸 메시지에는 곧바로 답장이 오기를 바라고, 전한 마음은 바로 닿기를 바라며, 노력한 만큼의 결과도 금방 나타나기를 기대하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 세상에는 시간이 흘러야 비로소 전해지는 마음도 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "아주 먼 별에서 출발한 빛이 오랜 시간을 여행해 우리에게 닿는 것처럼요.",
+        "emphasis": false
+      },
+      {
+        "text": "지금은 알아주지 않는 마음도, 아직은 이루어지지 않은 꿈도, 어쩌면 조금 더 긴 시간을 건너고 있는 것뿐일지도 몰라요.",
+        "emphasis": false
+      },
+      {
+        "text": "그러니 앞으로는 무언가가 늦어진다고 해서 너무 조급해하지 않았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "누군가를 향한 진심도, 스스로를 위해 쏟은 노력도, 오래 품어온 소망도 언젠가는 가장 아름다운 순간에 닿을 수 있으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "{이름}님이 오랜 시간 품어온 진심이 앞으로는 누군가의 마음에 찬란하게 닿기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 {이름}님 또한 누군가에게 오래도록 기억되는 아름다운 음악 같은 사람이 되기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "전설",
+    "year": "2019",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/a9/b2/fca9b2d4-b1ed-92e8-2e5f-1838d77cbce7/cover-_NEW.jpg/1000x100bb.jpg",
+    "source": "https://music.apple.com/us/album/together/1456102975?i=1456103127&uo=4",
+    "theme": "오래 품은 진심",
+    "floId": "31501131",
+    "melonId": "31666411"
+  },
+  {
+    "id": "hanroro-spring",
+    "number": 12,
+    "title": "입춘",
+    "artist": "한로로",
+    "lyric": "이 마음 저무는 날까지 푸른 낭만을 선물할게",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "추운 겨울이 지나면 어김없이 봄이 찾아와요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날의 {이름}님에게도 마음이 얼어붙을 만큼 힘든 날들이 있었을 거예요. 하지만 그 시간을 잘 견뎌낸 덕분에 우리는 또 하나의 봄을 맞이할 수 있게 되었어요.",
+        "emphasis": false
+      },
+      {
+        "text": "꽃이 피는 데에도 저마다의 시간이 필요하듯, 우리의 꿈에도 각자의 계절이 있는 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "그러니 아직 피어나지 못했다고 조급해하지 않았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님의 마음에도 따뜻한 봄이 찾아오기를 바라요.",
+        "emphasis": false
+      },
+      {
+        "text": "그리고 그 봄에는 사랑하는 사람들과 함께 아름다운 것들을 나누며 살아가 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 오래 기다려온 봄이 시작되기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "입춘",
+    "year": "2022",
+    "cover": "https://cdn.music-flo.com/image/v2/album/774/746/07/04/407746774_62295ee4_s.jpg?1646878438167/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/452121435/details",
+    "theme": "마음에 찾아오는 봄",
+    "floId": "452121435"
+  },
+  {
+    "id": "hanroro-bus-stop",
+    "number": 13,
+    "title": "정류장",
+    "artist": "한로로",
+    "lyric": "보이지 않던 게 하나 둘 피어날 때",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 살아가면서 늘 어딘가로 향하고 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "남들보다 늦을까 봐 서두르고, 잠시 멈춰 서는 것조차 불안해할 때가 있죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 정류장은 끝이 아니라 다시 떠나기 위해 잠시 머무는 곳이에요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 열심히 달려온 {이름}님, 이제 잠깐 쉬어 가도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "그동안 놓쳤던 것들을 돌아보고, 지친 마음을 돌보는 시간도 필요하니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 쌓였던 걱정과 아쉬움은 잠시 내려놓고, 앞으로는 조금 가벼운 마음으로 출발해 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "언젠가 다시 자신을 돌아봤을 때, 참 잘 쉬었고 또 잘 나아갔다고 말할 수 있기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "정류장",
+    "year": "2023",
+    "cover": "https://cdn.music-flo.com/image/v2/album/866/010/11/04/411010866_63b39d80_s.jpg?1672715650375/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/464537260/details",
+    "theme": "잠시 쉬어 가는 용기",
+    "floId": "464537260"
+  },
+  {
+    "id": "hanroro-love",
+    "number": 14,
+    "title": "사랑하게 될 거야",
+    "artist": "한로로",
+    "lyric": "그럼에도 불구하고 나는 너를 용서하고 사랑하게 될 거야",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 사랑하는 만큼 상처받기도 하고, 미워했던 만큼 후회하기도 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날에도 마음을 아프게 했던 사람이나, 쉽게 잊히지 않는 일이 있었을지 몰라요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 누군가를 용서한다는 건 그때의 상처가 아무것도 아니었다고 말하는 일은 아닐 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "그 아픔을 기억하면서도, 언젠가는 미움보다 사랑을 선택할 수 있게 되는 일이겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 지나간 상처에 너무 오래 머무르지 않았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "다른 사람을 용서하는 일만큼, 그때의 자신을 용서하는 일도 잊지 말아 주세요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 미워했던 것들을 조금씩 내려놓고, 다시 세상을 사랑할 수 있는 용기가 {이름}님에게 찾아오기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "이상비행",
+    "year": "2023",
+    "cover": "https://cdn.music-flo.com/image/v2/album/687/621/16/04/416621687_64e443fe_s.jpg?1692681216750/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/481296937/details",
+    "theme": "다시 사랑할 용기",
+    "floId": "481296937"
+  },
+  {
+    "id": "park-hyoshin-gift",
+    "number": 15,
+    "title": "Gift",
+    "artist": "박효신",
+    "lyric": "내일의 하늘은 오늘보다 더 좋은 선물",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 매일 비슷한 하늘을 보면서도, 그 안에 담긴 작은 아름다움은 쉽게 지나치곤 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 어떤 날에는 평범한 하늘도 유난히 좋은 선물처럼 느껴지죠.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날의 {이름}님에게도 그런 순간들이 있었을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "힘들었던 하루 끝에 바라본 노을이나, 뜻밖에 받은 따뜻한 연락처럼요.",
+        "emphasis": false
+      },
+      {
+        "text": "어쩌면 행복은 멀리 있는 특별한 사건이 아니라, 이미 우리 곁에 있는 것들을 알아보는 마음에서 시작되는지도 몰라요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 바쁘게 살아가는 중에도 가끔 하늘을 올려다보는 여유를 가져보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "오늘보다 조금 더 따뜻한 내일이, 그리고 생각지도 못했던 좋은 선물들이 {이름}님에게 찾아오기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "Gift - Part.1",
+    "year": "2009",
+    "cover": "https://cdn.music-flo.com/image/album/025/033/00/04/400033025_5c9cdb64.jpg?1553783653199/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/1802638/details",
+    "theme": "내일이라는 선물",
+    "floId": "1802638"
+  },
+  {
+    "id": "park-hyoshin-home",
+    "number": 16,
+    "title": "Home",
+    "artist": "박효신",
+    "lyric": "오늘은 걷더라도 내일은 달려갈래",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "집이라고 하면 어떤 곳이 떠오르나요?",
+        "emphasis": false
+      },
+      {
+        "text": "편히 쉴 수 있는 공간일 수도 있고, 아무 말 없이 곁에 있어 주는 소중한 사람일 수도 있겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 때때로 낯선 세상을 살아가느라 자신이 어디에 속해 있는지 잊어버리곤 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 돌아갈 곳이 있다는 사실만으로도 다시 앞으로 나아갈 힘을 얻을 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님에게 그런 따뜻한 곳과 사람들이 더 많아졌으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "오늘은 조금 느리게 걸어도 괜찮아요. 곁에서 함께 걸어주는 사람이 있다면 내일은 조금 더 멀리 갈 수 있을 테니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 사랑하는 사람들과 서로에게 편안한 집이 되어주기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "I am A Dreamer",
+    "year": "2016",
+    "cover": "https://cdn.music-flo.com/image/album/782/274/02/04/402274782_5c9f745a.jpg?1553953883719/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/4793925/details",
+    "theme": "돌아갈 수 있는 곳",
+    "floId": "4793925"
+  },
+  {
+    "id": "day6-happy",
+    "number": 17,
+    "title": "HAPPY",
+    "artist": "DAY6",
+    "lyric": "Tell me it's okay to be happy",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 모두 행복해지고 싶어 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "그런데 어른이 될수록 행복해지는 일이 생각보다 어렵게 느껴질 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "해야 할 일은 많고, 걱정은 쉽게 사라지지 않고, 다른 사람들은 나보다 더 행복해 보이기도 하니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 행복은 무언가를 대단히 이루어낸 사람에게만 주어지는 보상이 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "조금 부족한 하루를 보냈어도, 원하는 결과를 얻지 못했어도 우리는 충분히 행복할 자격이 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 행복해지는 일에 너무 많은 조건을 붙이지 않았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "작은 일에도 마음껏 웃고, 좋은 일이 생기면 미안해하지 않고 기뻐해 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 행복해져야 한다는 걱정보다, 지금 행복해도 괜찮다는 마음이 더 많아지기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "Fourever",
+    "year": "2024",
+    "cover": "https://cdn.music-flo.com/image/v2/album/343/942/22/04/422942343_65f79af1_s.jpg?1710725874947/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/497881291/details",
+    "theme": "행복해도 괜찮아",
+    "floId": "497881291"
+  },
+  {
+    "id": "day6-time-of-our-life",
+    "number": 18,
+    "title": "한 페이지가 될 수 있게",
+    "artist": "DAY6",
+    "lyric": "아름다운 청춘의 한 장 함께 써내려 가자",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "지난날의 페이지를 넘기고, 이제 새로운 이야기를 시작할 시간이에요.",
+        "emphasis": false
+      },
+      {
+        "text": "지나온 날들에는 어떤 이야기들이 남아 있나요?",
+        "emphasis": false
+      },
+      {
+        "text": "즐거운 기억도, 다시 떠올리면 조금 부끄러운 순간도 있겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 모든 페이지가 완벽할 필요는 없어요. 그 순간에 우리가 진심이었다면 충분히 소중한 이야기니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 좋아하는 사람들과 더 많은 추억을 만들어 갔으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "새로운 곳에 가보고, 하고 싶었던 일에 도전하고, 별일 없는 날에도 함께 웃어 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "언젠가 지금부터 함께 써 내려갈 페이지를 다시 펼쳤을 때, 참 행복했던 시절이었다고 말할 수 있기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "The Book of Us : Gravity",
+    "year": "2019",
+    "cover": "https://cdn.music-flo.com/image/album/931/230/03/04/403230931_5d2be198.jpg?1563156889809/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/427164276/details",
+    "theme": "함께 쓰는 청춘",
+    "floId": "427164276"
+  },
+  {
+    "id": "bewhy-time-goes-on",
+    "number": 19,
+    "title": "The Time Goes On",
+    "artist": "BewhY (비와이)",
+    "lyric": "내가 내 길을 만들어 가기에",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "시간은 우리가 준비되었는지 묻지 않고 흘러가요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날에도 무언가를 이루기 위해 노력했지만, 생각만큼 좋은 결과를 얻지 못한 순간들이 있었을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 지금까지의 시간이 헛된 것은 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "실패했던 경험도, 포기하지 않았던 노력도 조금씩 {이름}님의 길을 만들어 왔으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "누군가가 이미 걸어간 길을 따라갈 필요는 없어요. 조금 돌아가더라도 자신이 믿는 방향으로 나아가면 돼요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 지나간 시간을 아쉬워하기보다 앞으로 남은 시간을 더 소중히 사용해 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로 쌓아갈 작은 노력들이 모여, 언젠가 {이름}님이 꿈꾸던 미래의 모습이 되기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "Time Travel",
+    "year": "2015",
+    "cover": "https://cdn.music-flo.com/image/album/125/216/00/04/400216125_5c9cebfe.jpg?1553787903811/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/3951112/details",
+    "theme": "나의 길을 만드는 시간",
+    "floId": "3951112"
+  },
+  {
+    "id": "bewhy-day-day",
+    "number": 20,
+    "title": "Day Day (Feat. 박재범)",
+    "artist": "BewhY (비와이)",
+    "lyric": "너의 날은 어차피 올 테니깐",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 가끔 다른 사람의 성공을 보면서 자신의 시간이 너무 느리게 흐른다고 생각해요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 모든 사람에게는 저마다의 속도가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "누군가에게는 이미 찾아온 기회가 {이름}님에게는 아직 오지 않았을 뿐일지도 몰라요.",
+        "emphasis": false
+      },
+      {
+        "text": "그러니 다른 사람의 하루와 자신의 하루를 너무 많이 비교하지 않았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 꾸준히 해왔던 일들, 아무도 알아주지 않았던 노력들을 스스로 먼저 인정해 주세요.",
+        "emphasis": false
+      },
+      {
+        "text": "그리고 앞으로는 조금 더 당당하게 자신의 가능성을 믿어 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 스스로를 자랑스러워할 수 있는 순간들이 많아지기를 바라요. 언젠가 찾아올 자신의 날을 기대하면서요!",
+        "emphasis": true
+      }
+    ],
+    "album": "쇼미더머니 5 - Episode 4",
+    "year": "2016",
+    "cover": "https://cdn.music-flo.com/image/album/813/261/02/04/402261813_5cac6865.jpg?1554802790259/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/30315174/details",
+    "theme": "다가올 나의 날",
+    "floId": "30315174"
+  },
+  {
+    "id": "red-velvet-happiness",
+    "number": 21,
+    "title": "행복 (Happiness)",
+    "artist": "Red Velvet",
+    "lyric": "긍정의 힘을 나는 믿고 있지",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "행복해지는 방법은 생각보다 단순할지도 몰라요.",
+        "emphasis": false
+      },
+      {
+        "text": "아침에 가족에게 사랑한다고 말하고, 좋아하는 친구를 만나고, 먹고 싶었던 음식을 먹는 것처럼요.",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 행복을 더 큰 성공이나 더 많은 돈에서 찾으려고 할 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "물론 그런 것들도 중요하지만, 지금 우리 곁에 있는 작은 행복들을 잊지 않았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 좋아하는 것들을 조금 더 자주 해보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "해보고 싶었던 일이 있다면 너무 오래 고민하지 말고 시작해 보는 것도 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 특별한 이유가 없어도 웃을 수 있는 날이 많아지고, 지금의 나 자신을 좋아하는 마음도 더 커지기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "The 1st Single '행복(Happiness)'",
+    "year": "2014",
+    "cover": "https://cdn.music-flo.com/image/album/846/182/00/04/400182846_5c9d652d.jpg?1553818926994/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/3616575/details",
+    "theme": "일상 속 작은 행복",
+    "floId": "3616575"
+  },
+  {
+    "id": "wonpil-a-journey",
+    "number": 22,
+    "title": "행운을 빌어 줘",
+    "artist": "원필",
+    "lyric": "더 나은 내가 되어 있을 테니",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "새로운 시작 앞에서는 누구나 조금 두려워지는 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "익숙한 것을 떠나 처음 보는 길로 나아가는 일은 언제나 용기가 필요하니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 모든 준비가 끝나야만 출발할 수 있는 건 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "때로는 부족한 채로 시작하고, 길 위에서 하나씩 배워가기도 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 오래 고민했던 일에 용기 있게 도전해 보았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로 얼마나 많은 기쁨과 어려움이 기다리고 있을지는 알 수 없지만, 그 모든 경험이 {이름}님을 조금씩 성장시켜 줄 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로 시작하는 모든 모험에 행운이 함께하기를 바라요. 그리고 시간이 흘러 다시 돌아봤을 때, 조금 더 성장한 자신을 만날 수 있기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "Pilmography",
+    "year": "2022",
+    "cover": "https://cdn.music-flo.com/image/v2/album/731/498/07/04/407498731_62007f2d_s.jpg?1644199728409/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/451201527/details",
+    "theme": "새로운 모험의 시작",
+    "floId": "451201527"
+  },
+  {
+    "id": "silica-gel-realize",
+    "number": 23,
+    "title": "Realize",
+    "artist": "실리카겔",
+    "lyric": "혼자 무섭지만 이런 것쯤 견뎌볼게",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "살다 보면 익숙한 무언가를 떠나보내야 하는 순간이 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "오랫동안 좋아했던 사람일 수도 있고, 이제는 자신과 맞지 않는 꿈이나 오래된 습관일 수도 있겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "그동안 소중히 여겼던 것을 내려놓는 일은 생각보다 어려워요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 모든 것을 끝까지 붙잡고 있어야만 하는 건 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "때로는 놓아주는 용기가 우리를 새로운 곳으로 데려가기도 하니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 더 이상 자신을 힘들게 하는 것들로부터 조금씩 자유로워졌으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "처음에는 혼자 걷는 길이 낯설고 두렵겠지만, 그 길에서도 새로운 자신을 발견할 수 있을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 지나간 것들을 잘 보내주고, 스스로를 조금 더 믿어보기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "Machine Boy",
+    "year": "2023",
+    "cover": "https://cdn.music-flo.com/image/v2/album/807/282/13/04/413282807_64461bdb_s.jpg?1682316252956/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/472029319/details",
+    "theme": "놓아주는 용기",
+    "floId": "472029319"
+  },
+  {
+    "id": "black-skirts-wait",
+    "number": 24,
+    "title": "기다린 만큼, 더",
+    "artist": "검정치마",
+    "lyric": "기다린 만큼 더 기다릴 수 있지만",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "누군가를 오래 기다려본 적이 있나요?",
+        "emphasis": false
+      },
+      {
+        "text": "마음이 닿기를 바라면서, 조금만 더 기다리면 달라질 거라고 믿었던 순간들이 있었을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 모든 기다림이 우리가 원하는 결말로 이어지는 것은 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "그렇다고 그동안의 마음이 의미 없었던 것도 아니겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "누군가를 진심으로 좋아했고, 그 사람을 위해 오랜 시간을 보냈다는 사실만으로도 그 마음은 소중하니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 다른 사람을 사랑하는 만큼 자신도 아껴주었으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "기다릴 수 있는 마음도 사랑이지만, 더 이상 기다리지 않기로 하는 마음도 자신을 위한 사랑일 수 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님의 진심이 잘 전해지는 사람을 만나고, 혼자 애쓰지 않아도 되는 따뜻한 사랑을 하기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "또 오해영 OST - Part.7",
+    "year": "2016",
+    "cover": "https://cdn.music-flo.com/image/album/653/257/02/04/402257653_5cbed9f2.jpg?1556011507291/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/30285786/details",
+    "theme": "나를 아끼는 사랑",
+    "floId": "30285786"
+  },
+  {
+    "id": "9-and-numbers-calm",
+    "number": 25,
+    "title": "평정심",
+    "artist": "9와 숫자들",
+    "lyric": "내일은 더 나을 거란 너의 위로에",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 하루에도 참 많은 감정을 느껴요.",
+        "emphasis": false
+      },
+      {
+        "text": "아침에는 괜찮았다가도 저녁이 되면 괜히 슬퍼지고, 아무 일 없던 하루가 유난히 힘들게 느껴질 때도 있죠.",
+        "emphasis": false
+      },
+      {
+        "text": "그런 날에는 마음을 차분하게 만드는 일조차 쉽지 않아요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 언제나 평정심을 유지해야 할 필요는 없어요.",
+        "emphasis": false
+      },
+      {
+        "text": "슬픈 날에는 조금 슬퍼해도 괜찮고, 마음이 복잡한 날에는 그 감정을 억지로 정리하지 않아도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 자신의 감정에 조금 더 너그러워졌으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "그리고 힘든 날에는 혼자 견디기보다 곁에 있는 사람에게 마음을 나누어 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 모든 날이 평온하지 않더라도, 하루의 끝에서 마음 편히 쉴 수 있는 순간이 많아지기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "수렴과 발산",
+    "year": "2016",
+    "cover": "https://cdn.music-flo.com/image/album/591/596/02/04/402596591_5cb10195.jpg?1555104218619/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/420766941/details",
+    "theme": "마음 편히 쉬는 밤",
+    "floId": "420766941"
+  },
+  {
+    "id": "yudabinband-voyage",
+    "number": 26,
+    "title": "항해",
+    "artist": "유다빈밴드",
+    "lyric": "춤을 추듯이 흘러가보자",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 누구도 가보지 않은 내일을 향해 매일 조금씩 나아가고 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날에도 어디로 가야 할지 몰라 막막했던 날들이 있었겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "때로는 길을 잃고, 예상하지 못한 어려움을 만나기도 했을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 그동안의 실수와 아쉬움도 우리가 지나온 소중한 시간이에요.",
+        "emphasis": false
+      },
+      {
+        "text": "항해는 바다가 늘 잔잔할 때만 할 수 있는 일이 아니니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 지나간 날들을 너무 미워하지 않았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "그 모든 경험을 안고, 이제는 조금 더 넓은 세상으로 나아가 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 거친 파도를 만나는 날에도 함께 나아갈 사람이 곁에 있기를, 그리고 그 항해의 끝에서 {이름}님이 꿈꾸던 아름다운 풍경을 만날 수 있기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "항해",
+    "year": "2023",
+    "cover": "https://cdn.music-flo.com/image/v2/album/710/968/14/04/414968710_6493e88f_s.jpg?1687414929574/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/476651235/details",
+    "theme": "함께 떠나는 항해",
+    "floId": "476651235"
+  },
+  {
+    "id": "jannabi-summer",
+    "number": 27,
+    "title": "뜨거운 여름밤은 가고 남은 건 볼품없지만",
+    "artist": "잔나비",
+    "lyric": "비틀거리던 내 발걸음도 그늘아래 드리운 내 눈빛도 아름답게 피어나길",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "지난날에도 참 많은 일이 있었겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "눈부시게 행복했던 순간도, 마음처럼 되지 않아 아쉬웠던 순간도 있었을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 지나간 시간을 돌아볼 때, 좋았던 기억보다 후회되는 순간을 더 오래 떠올리곤 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 그때의 서툰 모습도, 비틀거리던 발걸음도 모두 {이름}님이 열심히 살아온 흔적이에요.",
+        "emphasis": false
+      },
+      {
+        "text": "그러니 지나간 날들을 너무 아쉬워하지 않았으면 좋겠어요. 그 시절의 기쁨도 슬픔도 언젠가는 아름다운 추억으로 남을 테니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 지난날의 아쉬움은 조금씩 내려놓고, 새로운 사람과 새로운 행복을 맞이할 수 있기를 바라요.",
+        "emphasis": false
+      },
+      {
+        "text": "한때 볼품없어 보였던 우리의 순간들마저, 언젠가는 아름다운 꽃으로 피어나기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "MONKEY HOTEL",
+    "year": "2016",
+    "cover": "https://cdn.music-flo.com/image/album/936/265/02/04/402265936_5c9f73f5.jpg?1553953782122/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/30344896/details",
+    "theme": "아름답게 피어날 순간",
+    "floId": "30344896",
+    "melonId": "8298724"
+  },
+  {
+    "id": "hanroro-zero-plus-zero",
+    "number": 28,
+    "title": "0+0",
+    "artist": "한로로",
+    "lyric": "검은 눈동자의 사각지대를 찾으러 가자\n여름 코코아 겨울 수박도\n혼나지 않는 파라다이스",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 가끔 다른 사람들의 시선을 신경 쓰느라, 자신이 좋아하는 것조차 마음껏 선택하지 못할 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 여름에 따뜻한 코코아를 마시고, 겨울에 차가운 수박을 먹으면 어때요? 남들과 조금 다르다고 해서 틀린 것은 아니니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 다른 사람들의 기준보다 자신의 마음에 조금 더 귀 기울였으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "때로는 엉뚱한 꿈을 꾸고, 남들이 이해하지 못하는 선택을 해도 괜찮아요. 그런 모습까지 있는 그대로 사랑해 주는 사람들이 분명 있을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "그리고 우리도 누군가에게 그런 사람이 되어 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "서툴고 부족한 모습도 괜찮다고 말해주고, 세상이 틀렸다고 말하는 순간에도 기꺼이 서로의 편이 되어주는 사람이요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 어떤 모습이어도 혼나지 않고, 마음껏 꿈꾸고 사랑할 수 있는 자신만의 파라다이스를 만나기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "아무것도 없는 것 같은 두 사람이 만나 서로에게 가장 소중한 존재가 되는 것처럼, 앞으로는 함께한다는 사실만으로도 충분히 행복한 순간들이 많아지기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "자몽살구클럽",
+    "year": "2025",
+    "cover": "https://cdn.music-flo.com/image/v2/album/185/425/41/04/441425185_18573404ac922bf7_s.jpg?1753927775344/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/550039771/details",
+    "theme": "나만의 파라다이스",
+    "floId": "550039771"
+  },
+  {
+    "id": "yemin-mountain-boy",
+    "number": 29,
+    "title": "어느 산골 소년의 사랑 이야기",
+    "artist": "예민",
+    "lyric": "풀잎새 따다가 엮었어요",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 사랑하는 사람에게 무엇을 해줄 수 있을지 고민할 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "좋은 선물이나 멋진 말이 있어야 마음을 전할 수 있을 것 같기도 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 산골 소년은 그저 풀잎과 꽃송이를 엮어 좋아하는 사람에게 선물하고 싶어 했어요.",
+        "emphasis": false
+      },
+      {
+        "text": "사랑은 어쩌면 그렇게 단순하고 순수한 마음에서 시작되는 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날에는 마음을 전할 기회를 놓쳤거나, 조금 더 잘해주지 못해 아쉬웠던 순간도 있었겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 너무 많은 것을 고민하지 말고, 좋아하는 사람에게 작은 진심부터 전해 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 건네는 작은 마음들이 누군가에게 오래도록 기억되는 아름다운 선물이 되기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "Yemin 2",
+    "year": "1992",
+    "cover": "https://cdn.music-flo.com/image/album/555/001/00/04/400001555_5cb5933f.jpg?1555403584828/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/50627/details",
+    "theme": "작은 진심의 선물",
+    "floId": "50627"
+  },
+  {
+    "id": "sanullim-recollection",
+    "number": 30,
+    "title": "회상",
+    "artist": "산울림",
+    "lyric": "미운 건 오히려 나였어",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 가끔 지나간 사람을 떠올려요.",
+        "emphasis": false
+      },
+      {
+        "text": "함께 걷던 길이나 익숙한 풍경을 마주하면, 잊고 지냈던 기억이 다시 떠오르기도 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "그때 조금 더 잘해줬더라면 어땠을까, 다른 말을 했더라면 달라졌을까 하는 생각도 들 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 그 시절의 우리는 그때 할 수 있는 만큼 사랑했던 것일지도 몰라요.",
+        "emphasis": false
+      },
+      {
+        "text": "그러니 지난날의 자신을 너무 미워하지 않았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "이별의 아픔도, 누군가를 그리워했던 시간도 우리가 진심이었다는 흔적이니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 지나간 사람을 아프게 기억하기보다, 함께했던 좋은 순간을 떠올리며 미소 지을 수 있기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 {이름}님의 곁에도 오래도록 함께 걸어줄 사람이 있기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "새야 날아",
+    "year": "1982",
+    "cover": "https://cdn.music-flo.com/image/album/347/001/00/04/400001347_5c9d10d3.jpg?1553797332817/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/47852/details",
+    "theme": "지난날을 향한 미소",
+    "floId": "47852"
+  },
+  {
+    "id": "peppertones-good-luck",
+    "number": 31,
+    "title": "행운을 빌어요",
+    "artist": "페퍼톤스",
+    "lyric": "새로운 길로 떠나는 사람에게 보내는 응원과 작별 인사",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "살다 보면 좋아하는 사람과 헤어져야 하는 순간이 찾아와요.",
+        "emphasis": false
+      },
+      {
+        "text": "서로 다른 길을 선택하거나, 새로운 시작을 위해 익숙한 곳을 떠나야 할 때도 있겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "그런 이별은 아쉽지만, 슬프기만 한 것은 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "누군가의 새로운 시작을 진심으로 응원해 주는 일도 사랑의 한 모습이니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 {이름}님이 떠나보낸 사람들과 작별했던 순간들도 언젠가는 따뜻한 추억으로 남을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 새로운 사람을 만나고, 새로운 길을 선택할 일도 많겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 어디로 향하든 좋은 사람들과 따뜻한 순간들이 함께하기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 언젠가 다른 길을 떠나는 누군가에게도 웃으며 행운을 빌어줄 수 있는 우리가 되어 보아요.",
+        "emphasis": false
+      }
+    ],
+    "album": "Beginner's Luck",
+    "year": "2012",
+    "cover": "https://cdn.music-flo.com/image/album/024/091/00/04/400091024_5cae9ea6.jpg?1554947751558/dims/resize/x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/2635423/details",
+    "theme": "새로운 길에 보내는 응원",
+    "floId": "2635423",
+    "lyricKind": "message"
+  },
+  {
+    "id": "jannabi-joyful",
+    "number": 32,
+    "title": "조이풀 조이풀",
+    "artist": "잔나비",
+    "lyric": "해가 지는 곳 따라 걷다 보면 그게 내 기쁨이어라",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 하루를 시작할 때마다 오늘은 어제보다 더 좋은 날이기를 바라요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 모든 하루가 마음처럼 흘러가지는 않죠.",
+        "emphasis": false
+      },
+      {
+        "text": "아무것도 이루지 못한 것 같은 날도 있고, 내일이 오는 것조차 반갑지 않은 순간도 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "그럴 때는 꼭 밝은 아침을 향해서만 걸어갈 필요는 없을 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "해가 지는 방향으로 천천히 걸으며 하루를 보내는 것도 나름의 기쁨일 수 있으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날이 조금 힘들었다면, 이제는 스스로에게도 쉴 시간을 선물해 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 꼭 무언가를 이루지 않아도, 그저 하루를 잘 살아냈다는 사실만으로 기뻐할 수 있기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "전설",
+    "year": "2019",
+    "cover": "https://cdn.music-flo.com/image/album/951/514/02/04/402514951_5c9f7728.jpg?1553954602423/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/31501132/details",
+    "theme": "살아낸 하루의 기쁨",
+    "floId": "31501132"
+  },
+  {
+    "id": "jannabi-night-park",
+    "number": 33,
+    "title": "밤의 공원",
+    "artist": "잔나비",
+    "lyric": "초록을 거머쥔 우리는 여름으로!",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "봄이 지나면 여름이 찾아오고, 푸르던 계절도 언젠가는 저물어요.",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 아름다운 순간이 영원하기를 바라지만, 모든 계절에는 끝이 있죠.",
+        "emphasis": false
+      },
+      {
+        "text": "그래서 지금의 행복이 더 소중한 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 {이름}님에게도 오래도록 간직하고 싶은 순간들이 있었겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "함께 웃었던 밤, 좋아하는 사람과 걷던 길, 아무 걱정 없이 미래를 이야기하던 시간들처럼요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로도 그런 순간들이 많이 찾아왔으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "언젠가 끝날지도 모른다는 이유로 행복을 망설이지 말아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 좋아하는 사람들의 손을 잡고, 마음껏 사랑하고 웃으며 자신만의 푸른 여름으로 나아가기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "환상의 나라",
+    "year": "2021",
+    "cover": "https://cdn.music-flo.com/image/v2/album/125/384/06/04/406384125_6100ed43_s.jpg?1627450703485/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/446914610/details",
+    "theme": "지금 이 순간의 푸르름",
+    "floId": "446914610"
+  },
+  {
+    "id": "misty-blue-clear-day",
+    "number": 34,
+    "title": "날씨 맑음",
+    "artist": "미스티 블루",
+    "lyric": "날씨만 너무 좋은 날",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "유난히 날씨가 좋은 날에는 특별한 이유 없이 기분이 좋아지곤 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "햇살은 따뜻하고, 바람은 기분 좋게 불고, 괜히 누군가를 만나고 싶어지죠.",
+        "emphasis": false
+      },
+      {
+        "text": "어쩌면 행복은 그렇게 사소한 기대에서 시작되는지도 몰라요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 바쁘게 살아오느라 좋은 날씨조차 제대로 즐기지 못했다면, 앞으로는 조금 더 자주 밖으로 나가 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "가보고 싶었던 카페에 들르거나, 좋아하는 노래를 들으며 걷는 것도 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "뜻밖의 만남이나 반가운 일이 기다리고 있을지도 모르니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님의 마음에도 맑은 날이 많아지고, 평범한 하루에도 설레는 일이 자주 찾아오기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "4℃ 유리 호수 아래 잠든 꽃",
+    "year": "2006",
+    "cover": "https://cdn.music-flo.com/image/album/232/580/00/04/400580232_5c9fa6b0.jpg?1553966770081/dims/resize/1000x/quality/90",
+    "source": "https://www.music-flo.com/detail/track/80167145/details",
+    "theme": "마음에도 맑은 날",
+    "floId": "80167145"
+  },
+  {
+    "id": "day6-welcome-to-the-show",
+    "number": 35,
+    "title": "Welcome to the Show",
+    "artist": "DAY6",
+    "lyric": "Welcome to the show",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리의 인생이 하나의 공연이라면, 지금은 어떤 장면을 지나고 있을까요?",
+        "emphasis": false
+      },
+      {
+        "text": "박수를 받는 순간도 있겠지만, 조명이 꺼지고 혼자 무대에 남겨진 것 같은 날도 있을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 모든 공연이 처음부터 완벽할 필요는 없어요.",
+        "emphasis": false
+      },
+      {
+        "text": "실수한 장면도, 예상하지 못한 순간도 함께 모여 하나의 이야기가 되니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "그리고 무엇보다 중요한 건 그 무대를 함께하는 사람들이에요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 {이름}님의 곁에서 함께 웃고 울어준 사람들을 떠올려 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 그 사람들과 더 많은 이야기를 만들어 갔으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로도 {이름}님의 무대에는 좋은 사람들이 함께하기를, 그리고 먼 훗날 공연의 막이 내릴 때 서로에게 함께해서 행복했다고 말할 수 있기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "Fourever",
+    "year": "2024",
+    "cover": "https://cdn.music-flo.com/image/v2/album/343/942/22/04/422942343_65f79af1_s.jpg?1710725874947/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/497881290/details",
+    "theme": "함께 만드는 우리의 무대",
+    "floId": "497881290"
+  },
+  {
+    "id": "iu-through-the-night",
+    "number": 36,
+    "title": "밤편지",
+    "artist": "아이유",
+    "lyric": "어떻게 나에게 그대란 행운이 온 걸까",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "누군가를 진심으로 좋아하게 되면 그 사람의 평범한 하루까지 궁금해져요.",
+        "emphasis": false
+      },
+      {
+        "text": "오늘은 무엇을 먹었는지, 하루는 괜찮았는지, 잠은 잘 자고 있는지 말이에요.",
+        "emphasis": false
+      },
+      {
+        "text": "사랑은 어쩌면 그런 작은 걱정과 다정한 마음에서 시작되는 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날에는 소중한 사람에게 마음을 충분히 표현하지 못했던 순간도 있었을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 앞으로는 조금 더 자주 마음을 전해 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "사랑한다는 말이 쑥스럽다면 잘 자라는 인사나 따뜻한 안부를 건네는 것도 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님에게도 하루의 끝에 가장 먼저 떠오르는 사람이 생기기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 누군가에게 {이름}님이라는 존재가 무엇보다 고마운 행운이 되기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "밤편지",
+    "year": "2017",
+    "cover": "https://cdn.music-flo.com/image/album/931/304/02/04/402304931.jpg/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/30598121/details",
+    "theme": "하루 끝의 다정한 안부",
+    "floId": "30598121"
+  },
+  {
+    "id": "iu-celebrity",
+    "number": 37,
+    "title": "Celebrity",
+    "artist": "아이유",
+    "lyric": "You are my celebrity",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 가끔 다른 사람들과 조금 다르다는 이유로 자신을 숨기려고 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "남들과 다른 취향이나 생각이 틀린 것처럼 느껴질 때도 있죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 모든 별이 같은 모양으로 빛날 필요는 없어요.",
+        "emphasis": false
+      },
+      {
+        "text": "{이름}님만의 서툰 모습과 독특한 생각도 누군가에게는 특별한 매력일 수 있으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 자신을 다른 사람의 기준에 맞추려고 애썼다면, 앞으로는 조금 더 편안하게 자신의 모습을 보여주었으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "남들보다 느리게 가도 괜찮고, 조금 다른 길을 선택해도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 스스로의 특별함을 발견하고, 다른 누구보다 자신을 자랑스러워할 수 있기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "잊지 말아요. {이름}님은 이미 누군가에게 특별한 사람이에요.",
+        "emphasis": false
+      }
+    ],
+    "album": "IU 5th Album 'LILAC'",
+    "year": "2021",
+    "cover": "https://cdn.music-flo.com/image/v2/album/125/777/05/04/405777125_605c22d9_s.jpg?1616650972022/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/443615873/details",
+    "theme": "나만의 특별한 빛",
+    "floId": "443615873"
+  },
+  {
+    "id": "iu-good-day",
+    "number": 38,
+    "title": "좋은 날",
+    "artist": "아이유",
+    "lyric": "이렇게 좋은 날",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "좋아하는 사람 앞에서는 평소와 다르게 행동하게 될 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "별것 아닌 말에도 얼굴이 빨개지고, 준비했던 말은 자꾸 잊어버리곤 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 그런 서툰 모습도 사랑의 귀여운 부분인 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 누군가를 좋아하면서도 마음을 전하지 못했다면, 앞으로는 조금 더 용기를 내보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "꼭 완벽한 말로 고백할 필요는 없어요.",
+        "emphasis": false
+      },
+      {
+        "text": "조금 떨리고 어색하더라도 진심을 전하는 순간에는 그 나름의 아름다움이 있으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님의 마음을 두근거리게 하는 사람이 나타나고, 그 마음을 용기 있게 표현할 수 있기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 좋아하는 사람과 함께하는 평범한 날들이 유난히 좋은 날로 기억되기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "REAL",
+    "year": "2010",
+    "cover": "https://cdn.music-flo.com/image/album/664/052/00/04/400052664_5ddb9c52.jpg?1574673491126/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/2150694/details",
+    "theme": "설렘을 전하는 용기",
+    "floId": "2150694"
+  },
+  {
+    "id": "red-velvet-queendom",
+    "number": 39,
+    "title": "Queendom",
+    "artist": "Red Velvet",
+    "lyric": "We are Queens",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 가끔 누군가에게 인정받아야만 자신의 가치를 증명할 수 있다고 생각해요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 왕관이 있어야만 특별한 사람이 되는 건 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "자신의 삶을 사랑하고, 좋아하는 것들을 당당하게 선택하는 사람은 이미 충분히 빛나고 있으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날에는 남들의 기대에 맞추느라 자신의 마음을 뒤로 미뤘던 순간도 있었겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 원하는 것이 무엇인지 먼저 생각해 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "그리고 주변 사람들의 특별함도 함께 발견해 주었으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 자신의 삶에서 가장 빛나는 주인공이 되고, 소중한 사람들과 서로의 왕관을 지켜주기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "Queendom - The 6th Mini Album",
+    "year": "2021",
+    "cover": "https://cdn.music-flo.com/image/v2/album/187/453/06/04/406453187_6114c75d_s.jpg?1628751712295/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/447175065/details",
+    "theme": "내 삶의 빛나는 주인공",
+    "floId": "447175065"
+  },
+  {
+    "id": "snsd-into-the-new-world",
+    "number": 40,
+    "title": "다시 만난 세계",
+    "artist": "소녀시대",
+    "lyric": "사랑해 널 이 느낌 이대로",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "새로운 세계로 나아가는 일은 언제나 설레면서도 두려워요.",
+        "emphasis": false
+      },
+      {
+        "text": "익숙했던 곳을 떠나야 하고, 아직 알지 못하는 일들을 마주해야 하니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 두렵다는 이유로 시작하지 않는다면 새로운 풍경도 만날 수 없겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 {이름}님이 용기 내어 시작했던 일들을 떠올려 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "처음에는 낯설었지만, 어느새 익숙해진 것들도 분명 있을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로도 새로운 도전 앞에서 망설이는 순간이 찾아오겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "그럴 때는 지금까지 잘 해왔던 자신을 한번 믿어 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 두려움보다 설렘을 조금 더 크게 품고, 자신이 꿈꾸던 새로운 세계로 나아가기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 그 길에서 같은 꿈을 꾸는 소중한 사람들을 만나기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "다시 만난 세계",
+    "year": "2007",
+    "cover": "https://cdn.music-flo.com/image/album/199/590/00/04/400590199.jpg/dims/resize/1000x/quality/90",
+    "source": "https://www.music-flo.com/detail/track/80353913/details",
+    "theme": "새로운 세계로의 도전",
+    "floId": "80353913"
+  },
+  {
+    "id": "park-hyoshin-any-love",
+    "number": 41,
+    "title": "Any Love",
+    "artist": "박효신",
+    "lyric": "Anywhere, I'll be with you",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "사랑은 늘 특별한 순간에만 존재하는 것은 아닌 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "힘들었던 하루를 함께 견디고, 같은 하늘을 바라보고, 별다른 말 없이 곁을 지켜주는 시간에도 사랑은 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날에는 서로의 마음을 이해하지 못해 다투거나 상처받았던 순간도 있었겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 그 시간들을 지나면서 우리는 조금씩 서로를 이해하는 법을 배우기도 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 완벽한 사람을 찾기보다, 부족한 모습까지 함께 받아들일 수 있는 사랑을 해보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 어디에 있든 자신을 응원해 주는 사람이 곁에 있기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 {이름}님도 누군가에게 언제나 돌아갈 수 있는 따뜻한 사랑이 되어주기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "A & E",
+    "year": "2026",
+    "cover": "https://cdn.music-flo.com/image/v2/album/844/173/53/04/453173844_18a27b06997e5a8d_s.jpg?1775116473229/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/582491175/details",
+    "theme": "언제나 곁에 있는 사랑",
+    "floId": "582491175"
+  },
+  {
+    "id": "park-hyoshin-ae",
+    "number": 42,
+    "title": "AE",
+    "artist": "박효신",
+    "lyric": "잘해왔잖아 괜찮아질 거야",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 살면서 많은 사람과 만나고 헤어져요.",
+        "emphasis": false
+      },
+      {
+        "text": "함께했던 시간이 길어도 서로 다른 길을 걷게 되는 순간이 찾아오기도 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 멀어진다고 해서 그동안 나누었던 마음까지 사라지는 것은 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 힘들 때 곁에서 응원해 주었던 사람, 아무 말 없이 함께 울어주었던 사람을 떠올려 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "그 사람들이 건네준 따뜻한 말들은 시간이 지나도 우리 마음에 남아 있겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로 힘든 날이 찾아오면 그때의 위로를 다시 꺼내 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 혼자라고 느끼는 순간에도, 자신을 사랑하고 응원해 준 사람들이 있었다는 사실을 기억하기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 그 따뜻한 기억들이 다시 일어설 힘이 되어주기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "A & E",
+    "year": "2026",
+    "cover": "https://cdn.music-flo.com/image/v2/album/844/173/53/04/453173844_18a27b06997e5a8d_s.jpg?1775116473229/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/582491173/details",
+    "theme": "다시 꺼내 보는 위로",
+    "floId": "582491173"
+  },
+  {
+    "id": "iu-my-sea",
+    "number": 43,
+    "title": "아이와 나의 바다",
+    "artist": "아이유",
+    "lyric": "두 번 다시 날 모른 척 하지 않아",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "어릴 때의 우리는 참 많은 꿈을 꾸었어요.",
+        "emphasis": false
+      },
+      {
+        "text": "무엇이든 될 수 있을 것 같았고, 작은 일에도 마음껏 기뻐했죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 어른이 되면서 그때의 자신을 조금씩 잊어버리곤 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날에는 다른 사람들의 기대에 맞추느라 정작 자신의 마음을 돌보지 못한 순간도 있었을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 그동안의 아픔도, 서툴렀던 선택도 모두 {이름}님의 일부예요.",
+        "emphasis": false
+      },
+      {
+        "text": "그러니 이제는 자신을 조금 더 따뜻하게 바라봐 주세요.",
+        "emphasis": false
+      },
+      {
+        "text": "어린 시절의 자신에게 해주고 싶었던 말을 지금의 자신에게 건네는 것도 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 자신과 조금 더 가까워지고, 잊고 있던 꿈과 행복을 다시 발견하기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 어떤 날에는 삶이 힘들더라도 언제든 자신에게 돌아올 수 있는 사람이 되기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "IU 5th Album 'LILAC'",
+    "year": "2021",
+    "cover": "https://cdn.music-flo.com/image/v2/album/125/777/05/04/405777125_605c22d9_s.jpg?1616650972022/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/444873515/details",
+    "theme": "나 자신에게 돌아오는 길",
+    "floId": "444873515"
+  },
+  {
+    "id": "akmu-joy-sorrow-beautiful-heart",
+    "number": 44,
+    "title": "기쁨, 슬픔, 아름다운 마음",
+    "artist": "AKMU",
+    "lyric": "기쁨 뒤에 슬픔이 오는 건 아름다운 마음이야",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 행복한 날이 계속되기를 바라요.",
+        "emphasis": false
+      },
+      {
+        "text": "슬픈 일은 되도록 피하고 싶고, 힘든 기억은 빨리 잊어버리고 싶어 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 슬픔이 찾아온다고 해서 우리의 삶이 잘못되고 있는 것은 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "기쁨과 슬픔은 서로 반대되는 감정이지만, 둘 다 우리가 살아 있다는 소중한 증거니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 {이름}님에게 슬픈 일이 있었다면 그 마음을 억지로 지우지 않아도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "언젠가 그 시간도 지금의 자신을 이해하는 하나의 조각이 될 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 웃는 날뿐 아니라 울고 싶은 날의 자신도 사랑해 주기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "우리의 삶은 밝은 순간과 어두운 순간이 함께 모여 하나의 아름다운 그림이 되는 것이니까요.",
+        "emphasis": false
+      }
+    ],
+    "album": "개화",
+    "year": "2026",
+    "cover": "https://cdn.music-flo.com/image/v2/album/036/366/53/04/453366036_18a3aaf2f4558f19_s.jpg?1775450641256/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/582965807/details",
+    "theme": "모든 감정을 사랑하는 마음",
+    "floId": "582965807"
+  },
+  {
+    "id": "akmu-new-adventures",
+    "number": 45,
+    "title": "벌레를 내고",
+    "artist": "AKMU",
+    "lyric": "시간은 짧고 누릴 것은 많구나",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "세상에는 아직 우리가 경험하지 못한 것들이 참 많아요.",
+        "emphasis": false
+      },
+      {
+        "text": "가보지 않은 도시도 있고, 먹어보지 못한 음식도 있고, 만나보지 못한 사람들도 있죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 우리는 바쁜 일상에 익숙해져 새로운 경험을 자꾸 다음으로 미루곤 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날에는 시간이 없다는 이유로 하고 싶었던 일을 포기한 순간도 있었을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 작은 모험부터 시작해 보는 건 어떨까요?",
+        "emphasis": false
+      },
+      {
+        "text": "처음 가보는 동네를 걸어보고, 낯선 음식을 먹어보고, 생각지도 못했던 곳으로 여행을 떠나보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 더 많은 세상을 보고, 더 많은 경험을 하며, 자신이 좋아하는 것들을 마음껏 발견하기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "우리가 누릴 수 있는 즐거움은 생각보다 훨씬 많으니까요.",
+        "emphasis": false
+      }
+    ],
+    "album": "개화",
+    "year": "2026",
+    "cover": "https://cdn.music-flo.com/image/v2/album/036/366/53/04/453366036_18a3aaf2f4558f19_s.jpg?1775450641256/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/582965806/details",
+    "theme": "아직 만나지 못한 즐거움",
+    "floId": "582965806"
+  },
+  {
+    "id": "akmu-200-percent",
+    "number": 46,
+    "title": "200%",
+    "artist": "AKMU",
+    "lyric": "정말이야 널 좋아하는데",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "누군가를 좋아하면 평범한 하루도 특별하게 느껴질 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "아침에 일어나는 일이 즐거워지고, 우연히 마주친 순간만으로도 하루 종일 기분이 좋아지죠.",
+        "emphasis": false
+      },
+      {
+        "text": "그런 설렘은 조금 서툴고 어색해서 더 아름다운 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날에는 좋아하는 마음을 숨기느라 아쉬웠던 순간도 있었겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 그런 감정을 너무 오래 망설이지 않았으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "상대방의 마음을 알 수 없더라도, 누군가를 좋아하게 되었다는 사실 자체가 소중한 경험이니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님의 마음이 200% 확신할 만큼 좋아하는 사람을 만나기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 그 사람과 함께하는 하루하루가 설레고 즐거운 추억으로 남기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "Play",
+    "year": "2014",
+    "cover": "https://cdn.music-flo.com/image/album/057/166/00/04/400166057_5c9ce0d7.jpg?1553785048635/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/3454146/details",
+    "theme": "마음을 채우는 설렘",
+    "floId": "3454146"
+  },
+  {
+    "id": "akmu-love-lee",
+    "number": 47,
+    "title": "Love Lee",
+    "artist": "AKMU",
+    "lyric": "You're my Love Lee",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "좋아하는 사람이 생기면 그 사람의 평범한 모습까지 사랑스럽게 느껴져요.",
+        "emphasis": false
+      },
+      {
+        "text": "조금 엉뚱한 행동도 귀엽게 보이고, 사소한 대화에도 웃음이 나곤 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "사랑은 거창하고 특별한 순간보다 그런 평범한 일상에서 더 크게 느껴지는 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 함께 웃었던 사람들을 떠올려 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "그 사람들과 나눴던 작은 농담과 별일 없는 하루가 지금은 소중한 추억으로 남아 있을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 좋아하는 마음을 더 자주 표현해 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님의 일상에도 사랑스러운 순간이 가득하고, 함께 있는 것만으로도 웃음이 나는 사람들이 많아지기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 {이름}님도 누군가에게 가장 사랑스러운 존재가 되기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "Love Lee",
+    "year": "2023",
+    "cover": "https://cdn.music-flo.com/image/v2/album/318/589/16/04/416589318_64e2afca_o.jpg?1692577739021/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/481194469/details",
+    "theme": "사랑스러운 일상의 순간",
+    "floId": "481194469"
+  },
+  {
+    "id": "do-thats-okay",
+    "number": 48,
+    "title": "괜찮아도 괜찮아 (That's okay)",
+    "artist": "도경수",
+    "lyric": "괜찮아도 괜찮아",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "우리는 힘든 일이 있어도 괜찮다고 말할 때가 많아요.",
+        "emphasis": false
+      },
+      {
+        "text": "다른 사람을 걱정시키고 싶지 않아서, 혹은 스스로 약해 보이고 싶지 않아서일지도 모르죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 언제나 괜찮은 사람일 필요는 없어요.",
+        "emphasis": false
+      },
+      {
+        "text": "슬픈 날에는 울어도 되고, 기쁜 날에는 마음껏 웃어도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 힘든 감정을 억지로 참아왔다면 앞으로는 자신의 마음을 조금 더 솔직하게 받아들여 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "행복한 순간에도 언젠가 끝날까 봐 걱정하지 말고, 그 기쁨을 충분히 누렸으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 어떤 감정을 느끼든 스스로를 탓하지 않고, 있는 그대로의 마음을 다정하게 받아들일 수 있기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "괜찮아도 괜찮아 (That's okay) - SM STATION",
+    "year": "2019",
+    "cover": "https://cdn.music-flo.com/image/album/431/224/03/04/403224431_5d1484e8.jpg?1561625833586/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/427127689/details",
+    "theme": "있는 그대로 괜찮은 마음",
+    "floId": "427127689"
+  },
+  {
+    "id": "do-popcorn",
+    "number": 49,
+    "title": "Popcorn",
+    "artist": "도경수",
+    "lyric": "터질 듯 설레 마치 Popcorn",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "처음 누군가를 좋아하게 되었을 때의 설렘을 기억하나요?",
+        "emphasis": false
+      },
+      {
+        "text": "별것 아닌 말에도 웃음이 나고, 작은 관심에도 마음이 두근거리곤 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "그런데 사랑은 시간이 지나면서 조금씩 익숙해지기도 해요.",
+        "emphasis": false
+      },
+      {
+        "text": "처음의 떨림이 줄어든다고 해서 마음까지 작아지는 것은 아니겠죠.",
+        "emphasis": false
+      },
+      {
+        "text": "오히려 오래 함께하면서 발견하는 새로운 모습들이 또 다른 설렘이 될 수 있을 거예요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 익숙한 사람에게도 가끔 처음 만났던 날의 마음으로 다가가 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 사랑하는 사람과 함께 새로운 설렘을 발견하고, 평범한 하루에도 팝콘처럼 기분 좋은 행복이 톡톡 터지기를 바라요.",
+        "emphasis": true
+      }
+    ],
+    "album": "성장 - THE 3RD MINI ALBUM",
+    "year": "2024",
+    "cover": "https://cdn.music-flo.com/image/v2/album/384/547/24/04/424547384_66349228_s.jpg?1714721323573/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/502171414/details",
+    "theme": "톡톡 터지는 행복",
+    "floId": "502171414"
+  },
+  {
+    "id": "do-good-night",
+    "number": 50,
+    "title": "오늘에게 (Good Night)",
+    "artist": "도경수",
+    "lyric": "내일 걱정은 그만",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "하루를 마치고 누우면 낮에는 생각나지 않던 걱정들이 떠오를 때가 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "아직 해결하지 못한 일도 있고, 내일은 잘할 수 있을지 불안해지기도 하죠.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 오늘의 걱정을 모두 해결해야만 잠들 수 있는 건 아니에요.",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 이미 하루를 살아내는 것만으로도 충분히 많은 일을 해냈으니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 잠들기 전까지 스스로를 힘들게 했다면, 앞으로는 하루의 끝에 조금 더 다정한 인사를 건네 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "오늘 할 수 있는 만큼 했다면, 남은 일은 내일의 자신에게 맡겨도 괜찮아요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 하루의 끝마다 자신에게 수고했다고 말해주고, 편안한 마음으로 잠들 수 있기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 내일은 오늘보다 조금 더 가벼운 마음으로 시작하기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "성장 - THE 3RD MINI ALBUM",
+    "year": "2024",
+    "cover": "https://cdn.music-flo.com/image/v2/album/384/547/24/04/424547384_66349228_s.jpg?1714721323573/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/502563093/details",
+    "theme": "편안한 밤을 위한 인사",
+    "floId": "502563093"
+  },
+  {
+    "id": "jang-beomjune-slowly",
+    "number": 51,
+    "title": "당신과는 천천히",
+    "artist": "장범준",
+    "lyric": "좋은 순간만은 천천히",
+    "extraLyric": null,
+    "letter": [
+      {
+        "text": "이상하게도 힘든 시간은 느리게 흐르는데, 행복한 시간은 너무 빨리 지나가는 것 같아요.",
+        "emphasis": false
+      },
+      {
+        "text": "좋아하는 사람과 함께하는 주말이나, 오래 기다렸던 휴가가 유난히 짧게 느껴지는 것처럼요.",
+        "emphasis": false
+      },
+      {
+        "text": "우리는 매일 더 빨리 움직이고, 더 많은 일을 해내려고 애쓰고 있어요.",
+        "emphasis": false
+      },
+      {
+        "text": "하지만 소중한 사람과 함께하는 시간만큼은 조금 천천히 흘러갔으면 좋겠어요.",
+        "emphasis": false
+      },
+      {
+        "text": "지난날 바쁘다는 이유로 함께하지 못했던 순간들이 있다면, 앞으로는 그 시간을 조금 더 소중히 여겨 보아요.",
+        "emphasis": false
+      },
+      {
+        "text": "함께 식사하고, 산책하고, 별다른 이야기를 나누는 평범한 시간도 언젠가는 그리운 추억이 될 테니까요.",
+        "emphasis": false
+      },
+      {
+        "text": "앞으로는 {이름}님이 사랑하는 사람과 더 많은 시간을 나누고, 행복한 순간에는 조금 천천히 머무를 수 있기를 바라요.",
+        "emphasis": true
+      },
+      {
+        "text": "그리고 먼 훗날 돌아봤을 때, 참 좋은 사람들과 좋은 시간을 보냈다고 말할 수 있기를 바라요.",
+        "emphasis": false
+      }
+    ],
+    "album": "장범준 3집",
+    "year": "2019",
+    "cover": "https://cdn.music-flo.com/image/album/972/537/02/04/402537972.jpg?1553246833824/dims/resize/1000x1000/quality/90",
+    "source": "https://www.music-flo.com/detail/track/31513321/details",
+    "theme": "좋은 순간에 천천히 머물기",
+    "floId": "31513321"
+  }
+]
